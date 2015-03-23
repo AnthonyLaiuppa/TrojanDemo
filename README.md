@@ -2,7 +2,7 @@
 
 A simple trojan framework built into git. It uses git to pull configs and modules to do its work. It also pushes its finds to git.  
 
-Right now it is in an early stage while I base the framework and modules based on the methods found in Black Hat Python. I plan on integrating more modules and attack vectors into the virus. 
+Right now it is in an early stage while I base the framework and modules on the methods found in Black Hat Python. I plan on integrating more modules and attack vectors into the virus. 
 
 The program will be obfuscated and then compiled using py2exe
 
